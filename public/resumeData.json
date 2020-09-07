@@ -1,0 +1,113 @@
+{
+  "main": {
+    "name": "Chandra",
+    "occupation": "Cloud DevOps Engineer && Freelancer",
+    "description": "Cloud Devops Engineer",
+    "image": "DP_Chandra.jpeg",
+    "bio": "My name is Chandra, I'm a Cloud DevOps Engineer. I'm currently working at AIG",
+    "contactmessage": "Get in touch with me to receive further details, get coached or anything else.",
+    "email": "cpkatragadda@gmail.com",
+    "phone": "+1 443583****",
+    "address": {
+      "street": "ABC Street",
+      "city": "Charlotte",
+      "state": "NC",
+      "zip": "9999"
+    },
+    "website": "http://www.timbakerdev.com",
+    "resumedownload": "http://timbakerdev.com",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/cpkatragadda/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "http://github.com/cpkatragadda",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
+    "education": [
+      {
+        "school": "Youngstown State University",
+        "degree": "Masters in Computer Science",
+        "graduated": "May 2016",
+        "description": "Graduated with Distinction"
+      }
+    ],
+    "work": [
+      {
+        "company": "AIG",
+        "title": "Cloud DevOps Engineer/SRE",
+        "years": "Aug 2016 - Present",
+        "description": "Handling CICD platform, AWS services"
+      }
+    ],
+    "skills": [
+      {
+        "name": "AWS",
+        "level": "100%"
+      },
+      {
+        "name": "Jenkins",
+        "level": "95%"
+      },
+      {
+        "name": "Git",
+        "level": "60%"
+      },
+      {
+        "name": "Chef",
+        "level": "70%"
+      },
+      {
+        "name": "HTML5",
+        "level": "80%"
+      },
+      {
+        "name": "MongoDB",
+        "level": "80%"
+      },
+      {
+        "name": "Python",
+        "level": "50%"
+      },
+      {
+        "name": "CICD",
+        "level": "80%"
+      },
+      {
+        "name": "CICD",
+        "level": "80%"
+      },
+      {
+        "name": "Terraform",
+        "level": "80%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+   
+    ]
+  }
+}
